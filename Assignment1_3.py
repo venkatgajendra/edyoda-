@@ -8,3 +8,9 @@ for num in numbers:
     else:
         odd+=1
 print (f"no of even no are {even} \nno of odd  no are {odd} ")
+"""
+expected output
+no of even no are 3 
+no of odd  no are 4
+
+"""
